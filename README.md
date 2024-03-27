@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khai</h1>
 <h3 align="center">First Year student at Usyd, passionate AI learner and web app developer</h3>
-<p align="left"> <img src="[https://t4.ftcdn.net/jpg/02/78/37/47/240_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg](https://static.vecteezy.com/system/resources/thumbnails/011/868/785/original/animated-isolated-coding-specialist-window-with-typing-web-developer-looped-flat-2d-character-4k-footage-with-alpha-channel-programming-colorful-animation-for-mobile-website-social-media-video.jpg)" alt="khaitrinh2010" /> </p>
+<p align="left"> <img src="https://t4.ftcdn.net/jpg/02/78/37/47/240_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" alt="khaitrinh2010" /> </p>
 - 👨‍💻 All of my projects are available at [https://github.com/khaitrinh2010?tab=repositories](https://github.com/khaitrinh2010?tab=repositories)
 
 - 📫 How to reach me **trinlamkhai@gmail.com**
