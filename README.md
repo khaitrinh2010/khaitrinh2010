@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khai</h1>
-<h3 align="center">First Year student at Usyd, passionate AI learner and web app developer</h3>
+<h3 align="center">Second Year student at Usyd, passionate AI learner and web app developer</h3>
 <p align="left"> <img src="[[https://t4.ftcdn.net/jpg/02/78/37/47/240_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg](https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg)](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" alt="khaitrinh2010" /> </p>
 - 👨‍💻 All of my projects are available at [https://github.com/khaitrinh2010?tab=repositories](https://github.com/khaitrinh2010?tab=repositories)
 
